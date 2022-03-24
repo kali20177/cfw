@@ -1,8 +1,9 @@
 # 使用方法
 
-Clash For Windows中的 windows 指 GUI .
+Clash For Windows 中的 windows 指 GUI . 基本上是在 Ubuntu 上使用代理最简单的方式。 
 
-下载地址:
+下载地址: https://github.com/Fndroid/clash_for_windows_pkg/releases
+
 ```bash
 wget https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.12/Clash.for.Windows-0.19.12-x64-linux.tar.gz
 ```
